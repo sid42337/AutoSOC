@@ -26,7 +26,7 @@ The AutoSOC environment consists of a **hybrid setup** with the Windows client r
 
 ### 💻 **Windows 10 Client**
 
-![image.png](VMs%20Environment%20Setup%201d17b769b25a8016a44cc28d6389400b/image.png)
+![image.png](media/VMs%20Environment%20Setup%201d17b769b25a8016a44cc28d6389400b/image.png)
 
 - Acts as the victim machine
 - Sends logs to the Wazuh Server over the internet
@@ -38,13 +38,13 @@ The AutoSOC environment consists of a **hybrid setup** with the Windows client r
 
 ### ☁️ **Wazuh Server**
 
-![image.png](VMs%20Environment%20Setup%201d17b769b25a8016a44cc28d6389400b/image%201.png)
+![image.png](media/VMs%20Environment%20Setup%201d17b769b25a8016a44cc28d6389400b/image%201.png)
 
 - Collects and analyzes logs from Windows client
 
 ### ☁️ **TheHive + Shuffle Server**
 
-![image.png](VMs%20Environment%20Setup%201d17b769b25a8016a44cc28d6389400b/image%202.png)
+![image.png](media/VMs%20Environment%20Setup%201d17b769b25a8016a44cc28d6389400b/image%202.png)
 
 - Manages incidents and runs automation
 - Shuffle connects to Wazuh API + internet for enrichment
@@ -53,7 +53,7 @@ The AutoSOC environment consists of a **hybrid setup** with the Windows client r
 
 ### 🌐 Network Diagram
 
-![Network Diagram.PNG](VMs%20Environment%20Setup%201d17b769b25a8016a44cc28d6389400b/Network_Diagram.png)
+![Network Diagram.PNG](media/VMs%20Environment%20Setup%201d17b769b25a8016a44cc28d6389400b/Network_Diagram.png)
 
 ---
 
@@ -61,6 +61,6 @@ The AutoSOC environment consists of a **hybrid setup** with the Windows client r
 
 - Custom Firewall rule allowing ICMP, TCP and UDP data from the Client’s Public IP only.
 
-![image.png](VMs%20Environment%20Setup%201d17b769b25a8016a44cc28d6389400b/image%203.png)
+![image.png](media/VMs%20Environment%20Setup%201d17b769b25a8016a44cc28d6389400b/image%203.png)
 
-![image.png](VMs%20Environment%20Setup%201d17b769b25a8016a44cc28d6389400b/image%204.png)
+![image.png](media/VMs%20Environment%20Setup%201d17b769b25a8016a44cc28d6389400b/image%204.png)

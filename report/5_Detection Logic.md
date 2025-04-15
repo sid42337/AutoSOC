@@ -8,11 +8,11 @@
 
 1. Go to Management → Rules → Manage rules files
     
-    ![image.png](Detection%20Logic%201d47b769b25a80bd8351d974cadaeb5d/image.png)
+    ![image.png](media/Detection%20Logic%201d47b769b25a80bd8351d974cadaeb5d/image.png)
     
 2. Now go to “Custom rules” and Open the file found to edit it to add the custom rule.
     
-    ![image.png](Detection%20Logic%201d47b769b25a80bd8351d974cadaeb5d/image%201.png)
+    ![image.png](media/Detection%20Logic%201d47b769b25a80bd8351d974cadaeb5d/image%201.png)
     
 
 **Note:** 
