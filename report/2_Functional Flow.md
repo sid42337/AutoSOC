@@ -6,13 +6,13 @@
 
 ### 🧱 **Architecture Diagram**
 
-![AutoSOC.png](Functional%20Flow%201d17b769b25a80f6a047f28cf18de23e/AutoSOC.png)
+![AutoSOC.png](media/Functional%20Flow%201d17b769b25a80f6a047f28cf18de23e/AutoSOC.png)
 
 ---
 
 ### 🔁 Data flow Diagram
 
-![Basic Data Flow.png](Functional%20Flow%201d17b769b25a80f6a047f28cf18de23e/Basic_Data_Flow.png)
+![Basic Data Flow.png](media/Functional%20Flow%201d17b769b25a80f6a047f28cf18de23e/Basic_Data_Flow.png)
 
 ---
 
