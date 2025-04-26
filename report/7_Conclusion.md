@@ -12,7 +12,7 @@
 
 ---
 
-### 🧩 **What Can Be Improved**
+### 🧩 **Future Improvements**
 
 - Alert correlation and enrichment can be expanded to handle more complex detection scenarios.
 - Real-time monitoring dashboards or visualizations (e.g., Kibana) could enhance visibility.
