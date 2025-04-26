@@ -5,7 +5,7 @@ AutoSOC is a simulated Security Operations Center (SOC) environment focused on a
 ## 📂 Repo Structure
 
 - `report/` – Full documentation
-- `media/` – All diagrams, icons, and screenshots
+- `report/media/` – All diagrams, icons, and screenshots
 
 ## 🧠 Overview
 
