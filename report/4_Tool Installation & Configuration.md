@@ -262,7 +262,7 @@ file location: C:\Program Files (x86)\ossec-agent\ossec.conf
 ---
 
 
-### Shuffle Setup on TheHive Server (DigitalOcean)
+### Shuffle Setup
 
 **Workflow**
 
