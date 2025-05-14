@@ -28,14 +28,14 @@ Traditional SOCs often deal with alert fatigue, manual processes, and delayed re
 - Automated detection of credential dumping using Mimikatz.
 - Custom Wazuh rule integration for behavior-based detection.
 - End-to-end alert-to-case flow using Wazuh and TheHive.
-- Optional automated response via Shuffle SOAR.
+- Automated response via Shuffle SOAR.
 - Cloud-hosted server infrastructure and VM-based client for realistic simulation.
 
 ---
 
 ### 🔍 **Use Case**
 
-Simulate a credential dumping attack on a Windows 10 client using Mimikatz. The attack is detected by Wazuh through a custom rule, sent to TheHive for case management, and optionally handled by Shuffle for automated response actions such as notifications or tagging.
+Simulate a credential dumping attack on a Windows 10 client using Mimikatz. The attack is detected by Wazuh through a custom rule, sent to TheHive for case management, and then handled by Shuffle for automated response actions such as notifications or tagging.
 
 ---
 
