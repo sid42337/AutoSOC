@@ -51,4 +51,4 @@ Explanation
 3. The custom rule matches if `mimikatz.exe` appears in `originalFileName`.
 4. If a match is found, an alert is generated with severity level 15. (Level 15 just for fun :) )
 5. The alert is forwarded to TheHive via integration for case creation.
-6. Shuffle can pick up the alert and trigger automation workflows (optional).
+6. Shuffle can pick up the alert and trigger automation workflows.
