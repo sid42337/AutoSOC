@@ -185,6 +185,38 @@ Note: (Do Not worry about showing the admin credentials in open as the all the d
 
 ---
 
+
+### Mimikatz setup on Windows-10
+
+1. Disable Windows Defender
+2. Download Mimikatz zip file from github
+3. Extract the file 
+4. Open PowerShell with Administrator privileges and execute “mimikatz.exe”
+    
+    ![image.png](media/Tool%20Installation%20&%20Configuration%201d17b769b25a80ffa98bda6e9a4c5f3f/image%2038.png)
+    
+
+---
+
+### Wazuh Dashboard Setup
+
+**Create a new Index for archived logs**
+
+1. Go to Stack Management → Index Patterns
+    
+    ![image.png](media/Tool%20Installation%20&%20Configuration%201d17b769b25a80ffa98bda6e9a4c5f3f/image%2039.png)
+    
+2. Add “wazuh-archives-*” logs
+    
+    ![image.png](media/Tool%20Installation%20&%20Configuration%201d17b769b25a80ffa98bda6e9a4c5f3f/image%2040.png)
+    
+3. Select “timestamp” for the “timefield”
+    
+    ![image.png](media/Tool%20Installation%20&%20Configuration%201d17b769b25a80ffa98bda6e9a4c5f3f/image%2041.png)
+    
+
+---
+
 ### Wazuh Agent Setup in Windows-10
 
 **Setting up Wazuh agent**
@@ -229,36 +261,6 @@ file location: C:\Program Files (x86)\ossec-agent\ossec.conf
 
 ---
 
-### Mimikatz setup on Windows-10
-
-1. Disable Windows Defender
-2. Download Mimikatz zip file from github
-3. Extract the file 
-4. Open PowerShell with Administrator privileges and execute “mimikatz.exe”
-    
-    ![image.png](media/Tool%20Installation%20&%20Configuration%201d17b769b25a80ffa98bda6e9a4c5f3f/image%2038.png)
-    
-
----
-
-### Wazuh Dashboard Setup
-
-**Create a new Index for archived logs**
-
-1. Go to Stack Management → Index Patterns
-    
-    ![image.png](media/Tool%20Installation%20&%20Configuration%201d17b769b25a80ffa98bda6e9a4c5f3f/image%2039.png)
-    
-2. Add “wazuh-archives-*” logs
-    
-    ![image.png](media/Tool%20Installation%20&%20Configuration%201d17b769b25a80ffa98bda6e9a4c5f3f/image%2040.png)
-    
-3. Select “timestamp” for the “timefield”
-    
-    ![image.png](media/Tool%20Installation%20&%20Configuration%201d17b769b25a80ffa98bda6e9a4c5f3f/image%2041.png)
-    
-
----
 
 ### Shuffle Setup on TheHive Server (DigitalOcean)
 
