@@ -8,7 +8,7 @@ The AutoSOC environment consists of a **hybrid setup** with the Windows client r
 | --- | --- | --- | --- |
 | `Win10-Client` | Endpoint / Log Source | VirtualBox (Local) | Windows 10 (x64) |
 | `Wazuh-Server` | SIEM + XDR Manager | DigitalOcean (Cloud) | Ubuntu 22.04 |
-| `TheHive-Server` | Case Management + SOAR | DigitalOcean (Cloud) | Ubuntu 22.04 |
+| `TheHive-Server` | Case Management | DigitalOcean (Cloud) | Ubuntu 22.04 |
 
 ---
 
@@ -42,7 +42,7 @@ The AutoSOC environment consists of a **hybrid setup** with the Windows client r
 
 - Collects and analyzes logs from Windows client
 
-### ☁️ **TheHive + Shuffle Server**
+### ☁️ **TheHive**
 
 ![image.png](media/VMs%20Environment%20Setup%201d17b769b25a8016a44cc28d6389400b/image%202.png)
 
