@@ -225,7 +225,7 @@ Note: (Do Not worry about showing the admin credentials in open as the all the d
 
 ![image.png](media/Tool%20Installation%20&%20Configuration%201d17b769b25a80ffa98bda6e9a4c5f3f/image%2030.png)
 
-1. Since there are no agents installed, we will install one.
+2. Since there are no agents installed, we will install one.
     1. Select the Windows as we will install the agent on windows-10 Client
         
         ![image.png](media/Tool%20Installation%20&%20Configuration%201d17b769b25a80ffa98bda6e9a4c5f3f/image%2031.png)
